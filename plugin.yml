@@ -1,0 +1,5 @@
+name: BloodyKills
+main: competentsystem.plugin.bloodykills.BloodyKills
+version: 1.1-rl
+description: Blood Effects On Entity Deaths!
+author: CompetentSystem

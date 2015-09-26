@@ -1,0 +1,11 @@
+# Please do not modify the format of this configuration!
+# There are three blood types to choose from:
+# 				- cartoon
+# 				- normal
+# 				- mutant
+
+# When a player is killed, it will play this blood type.
+players-blood-type: cartoon
+
+# When a mob is killed, it will play this blood type.
+mobs-blood-type: cartoon
